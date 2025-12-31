@@ -42,8 +42,8 @@ After completing my Exploratory Data Analysis Project by scraping live PG accomm
 
 📈 𝐊𝐞𝐲 𝐈𝐧𝐬𝐢𝐠𝐡𝐭𝐬 𝐟𝐫𝐨𝐦 𝐭𝐡𝐞 𝐃𝐚𝐬𝐡𝐛𝐨𝐚𝐫𝐝
 
-✔ Kharadi, Hinjewadi, and Viman Nagar contribute the highest total rent, indicating strong PG demand in IT-centric areas.
-✔ Co-ed PGs dominate the market, both in count and total rent contribution.
-✔ Majority of PGs do not provide AC, WiFi, or Food facilities, highlighting a gap in premium offerings.
-✔ PGs with facilities are fewer, suggesting opportunity for facility-rich accommodations.
-✔ Rent distribution varies significantly across locations, emphasizing location-driven pricing.
+- Kharadi, Hinjewadi, and Viman Nagar contribute the highest total rent, indicating strong PG demand in IT-centric areas.
+- Co-ed PGs dominate the market, both in count and total rent contribution.
+- Majority of PGs do not provide AC, WiFi, or Food facilities, highlighting a gap in premium offerings.
+- PGs with facilities are fewer, suggesting opportunity for facility-rich accommodations.
+- Rent distribution varies significantly across locations, emphasizing location-driven pricing.
