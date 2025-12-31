@@ -1,4 +1,5 @@
 📊 𝑷𝒖𝒏𝒆 𝑷𝑮 𝑻𝒓𝒆𝒏𝒅𝒔 & 𝑭𝒂𝒄𝒊𝒍𝒊𝒕𝒚 𝑨𝒏𝒂𝒍𝒚𝒔𝒊𝒔 | 𝑷𝒐𝒘𝒆𝒓 𝑩𝑰 𝑫𝒂𝒔𝒉𝒃𝒐𝒂𝒓𝒅 🚀
+
 After completing my Exploratory Data Analysis Project by scraping live PG accommodation data, I took the project a step further by transforming raw insights into an interactive Power BI dashboard.
 
 
